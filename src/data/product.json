@@ -1,0 +1,62 @@
+[
+  {
+    "id": "P01",
+    "email": "phong@example.com",
+    "fullname": "Phong",
+    "phone": "0928302"
+  },
+  {
+    "id": "P02",
+    "email": "john@example.com",
+    "fullname": "John",
+    "phone": "0987654"
+  },
+  {
+    "id": "P03",
+    "email": "jane@example.com",
+    "fullname": "Jane",
+    "phone": "0123456"
+  },
+  {
+    "id": "P04",
+    "email": "alex@example.com",
+    "fullname": "Alex",
+    "phone": "0765432"
+  },
+  {
+    "id": "P05",
+    "email": "sara@example.com",
+    "fullname": "Sara",
+    "phone": "0321654"
+  },
+  {
+    "id": "P06",
+    "email": "david@example.com",
+    "fullname": "David",
+    "phone": "0789012"
+  },
+  {
+    "id": "P07",
+    "email": "emily@example.com",
+    "fullname": "Emily",
+    "phone": "0543210"
+  },
+  {
+    "id": "P08",
+    "email": "michael@example.com",
+    "fullname": "Michael",
+    "phone": "0369852"
+  },
+  {
+    "id": "P09",
+    "email": "lisa@example.com",
+    "fullname": "Lisa",
+    "phone": "0912345"
+  },
+  {
+    "id": "P10",
+    "email": "kevin@example.com",
+    "fullname": "Kevin",
+    "phone": "0654321"
+  }
+]
